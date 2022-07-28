@@ -38,3 +38,9 @@
     color: white;
     background-color: rgba(29, 29, 29, 0.7);
 }
+/* course style start */
+.course-card-text {
+    padding: 32px 24px;
+}
+
+/* course style end */
