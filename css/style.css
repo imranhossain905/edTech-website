@@ -15,30 +15,15 @@
     position: absolute;
 }
 
-
-.btn-See {
-    color: white !important;
-    font-size: large20px;
-    max-width: 50px;
-    background-color: #289BDE !important;
-    border: none;
-    
-    
-}
-
-.d-block {
-    height: 700px;
-    width: 1320px;
-}
-.ps-5 {  
-font-family: 'Poppins';
-font-weight: 600;
-font-size: 65px;
-text-align: center;
-padding:0px 60px;
-}
 .slider-item {
     left: 50%!important;
     top: 50%;
     transform: translate(-50%, -50%);
+}
+.button-main {
+    padding: 13px 33px!important;
+    background: #289BDE!important;
+    color: white!important;
+    border-radius: 5px!important;
+    border: 1px solid #289BDE!important;
 }
