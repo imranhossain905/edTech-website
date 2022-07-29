@@ -42,18 +42,43 @@
 }
  /*slider end*/
 
-
-
-
-
 /* course style start */
-.course-card-text {
-    padding: 32px 24px;
+.Course-card .card-body  {
+
+}
+.Course-card .card-body h3 {
+    font-size: 25px;
+    line-height: 38px;
+    font-weight: 600;
+
+}
+.Course-card .card-body p {
+
+}
+.Course-card .card-body a {
+    color: #289BDE;
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 600;
 }
 
 /* course style end */
 
+/* register start */
+.register {
+    background: #289BDE;
+    border-radius: 5px;
+    color: white;
+}
 
+.register .register-button {
+
+    background-color: white;
+    border: 1px solid white;
+}
+
+
+/* register end */
 
 
 /* footer start  */
