@@ -44,3 +44,43 @@
 }
 
 /* course style end */
+
+
+
+
+/* footer start  */
+
+.footer {
+    background-color:rgb(163, 163, 233) ;
+    color: white;
+}
+.section {
+    padding: 130px 0px;
+}
+.footer-iteam h3 {
+    font-size: 40px;
+    line-height: 60px;
+    margin-bottom: 20px;
+}
+footer {
+    display: block;
+}
+.container {
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+.text-center {
+    text-align: center!important;
+}
+.social-link {
+    color: white;
+}
+
+.social-media {
+    display: flex;
+    font-size: 30px;
+    gap: 25px;
+    justify-content: center;
+}
+/* footer end */
