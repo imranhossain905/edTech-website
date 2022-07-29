@@ -3,6 +3,18 @@
     padding: 0;
 
 }
+section h1 {
+    font-size: 65px;
+    line-height: 85px;
+    font-weight: 600;
+
+}
+section h2 {
+    font-size: 45px;
+    line-height: 60px;
+    font-weight: 600;
+    color: #1D1D1D;
+}
 
 .nav-item {
     font-size: 20px;
@@ -71,10 +83,17 @@
     color: white;
 }
 
-.register .register-button {
+.register-button {
 
-    background-color: white;
-    border: 1px solid white;
+    background-color: white!important;
+    border: 1px solid white!important;
+    color: #289BDE!important;
+}
+.modal-button{
+    text-align: right;
+}
+.modal {
+    color: black;
 }
 
 
