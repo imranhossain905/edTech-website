@@ -15,6 +15,7 @@
     position: absolute;
 }
 
+/*slider start*/
 .slider-item {
     left: 50%!important;
     top: 50%;
@@ -37,7 +38,14 @@
     padding: 20px;
     color: white;
     background-color: rgba(29, 29, 29, 0.7);
+
 }
+ /*slider end*/
+
+
+
+
+
 /* course style start */
 .course-card-text {
     padding: 32px 24px;
@@ -51,7 +59,7 @@
 /* footer start  */
 
 .footer {
-    background-color:rgb(163, 163, 233) ;
+    background-color:#161616 ;
     color: white;
 }
 .section {
@@ -75,6 +83,7 @@ footer {
 }
 .social-link {
     color: white;
+    
 }
 
 .social-media {
@@ -82,5 +91,8 @@ footer {
     font-size: 30px;
     gap: 25px;
     justify-content: center;
+}
+.Ploicy {
+    text-decoration: none;
 }
 /* footer end */
