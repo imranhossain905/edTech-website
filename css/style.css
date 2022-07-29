@@ -82,6 +82,9 @@ section h2 {
     border-radius: 5px;
     color: white;
 }
+.register h2 {
+    color: white;
+}
 
 .register-button {
 
